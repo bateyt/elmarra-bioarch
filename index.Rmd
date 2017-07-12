@@ -1,7 +1,7 @@
 --- 
 title: "Bioarchaeology at Umm el-Marra"
 author: "E. K. Batey, III"
-date: "`r Sys.Date()`"
+date: "`r format(Sys.Date(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
