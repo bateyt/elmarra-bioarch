@@ -1,2 +1,5 @@
 .libPaths("/home/trey/R/library")
+Sys.setenv("R_LIBS" = "~/R/library")
+Sys.setenv("R_LIBS_USER" = "~/R/library")
+Sys.setenv("R_LIBS_SITE" = "~/R/library")
 lapply(c("tidyverse", "googlesheets", "ggvis", "ggmap", "scales", "sp"), require, character.only = TRUE)
