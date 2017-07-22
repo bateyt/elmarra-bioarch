@@ -12,6 +12,16 @@ github-repo: bateyt/elmarra-bioarch
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
+![](https://lh5.googleusercontent.com/Mx3SHxdTWJ251wEZb9_vrZgZ6uoh3pRWbcDzKE44GgY9TuOpZlB4umqvjEMUCcSohq5cJkidbYIpNXk=w1280-h683-rw)
+
+# Preface {-}
+
+All text and code for statistical analyses presented in this report are hosted at [GitHub](https://www.github.com/bateyt/elmarra-bioarch). All data and images are located in Dropbox 
+
+## Acknowledgements {-}
+
+I would like to thank Dr. Glenn Schwartz for inviting me join the 2006 field season of the Umm el-Marra Expedition and analyze the human remains there.
+
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(

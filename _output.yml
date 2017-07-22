@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Bioarchaeology at Umm el-Marra</a></li>
       after: |
-        <li><a href="https://github.com/bateyt/elmarra-bioarch" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/bateyt/elmarra-bioarch/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
