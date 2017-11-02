@@ -8,15 +8,18 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
+url: 
 github-repo: bateyt/elmarra-bioarch
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
-![](https://lh5.googleusercontent.com/Mx3SHxdTWJ251wEZb9_vrZgZ6uoh3pRWbcDzKE44GgY9TuOpZlB4umqvjEMUCcSohq5cJkidbYIpNXk=w1280-h683-rw)
-
 # Preface {-}
 
-All text and code for statistical analyses presented in this report are hosted at [GitHub](https://www.github.com/bateyt/elmarra-bioarch). All data and images are located in Dropbox 
+<CENTER>
+<img src="https://lh3.googleusercontent.com/fwBFRM7dxUtpPZ5spZm1g2QHiNhh78WzDIz5OIb6I0bGtNI52Ja-CDF7YlrMo3rBPPt0aK2tFh6y4p94epOGBGAFmfY2UYweirImqBYnVN7T6dIejTGRvBO7VnDShKON2dEkCW-gFUHM89xA3adGXJ6DUw9A7reaSxepHjebz_kghX-FGuTUtdE0o8VDUbdL7st5Nso0eYQBIhK1Kn-4BPY-qOzQ9qDE8m6CmSfpQvLaOeXSSM6kTE0fgFS39K_jLUcrl_x-JiQGllCRcAF8zOHT9WVFtKWGdH4-peKcQLDLj-E1oX_Qfl6I9QnVlGJoNg2E2FNbkkOMTMMuhqvMhACZg4-lzXzz6muaozsoJitP9sglTCGdB92ARxzlOK6bqukb5sP8omKaUnfSiPgrx0En7C1wVywWjgVFTEKxjbKAB6Ejhxsqe4XSrjIglyv2YaGQEh1X-QZNUAlqcz00gf1MjupVhb2S0aexSe37apEKW0NydMlrzclyh7QObPSOyIj4iezmgCBIFjq2YMtADtI-L7YGUDISE78Xt7Pef1kbtE0otf0I1NXPVcQNe93OIH5vKGtnZg9BAYZwGUhEHTQZ91QsQQAow3xuT1eDyd9qHmO5KA=w425-h566-no" alt="Cover image" />
+</CENTER>
+
+All text and code for statistical analyses presented in this report are hosted at [GitHub](https://www.github.com/bateyt/elmarra-bioarch). All data and images are located in Dropbox. 
 
 ## Acknowledgements {-}
 
