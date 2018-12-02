@@ -21,6 +21,12 @@ The most common pathology is periostitis, which is commonly found in archaeologi
 
 ### Stable Isotope Analysis
 
+```{r echo=FALSE, message=FALSE, results='hide'}
+## Read in data
+isotopes <- read.csv("https://www.dropbox.com/s/6a2bkv8yw42unlx/nonmetric-dental_obs2.csv?raw=1", header = TRUE)
+```
+
+
 ### Dental Wear
 
 

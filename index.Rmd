@@ -16,7 +16,7 @@ description: "This is a minimal example of using the bookdown package to write a
 # Preface {-}
 
 <CENTER>
-<img src="https://lh3.googleusercontent.com/f3ws6t7yNKgosyHkNiFE9q5-6vkeTLMtyZcI6Z9kVtXnxBc7LF54NPz1co6UtFEvlV5TBFmEnOw0KTYKP8RIpPavXsH3smsjqQFpPAffvV-zFd-wqp7Ja4_KPRvrQjbHg28wEYrRFi24vX8puFl8iNhVBtQQylz4kMuKEek6O8LGKtdj4LbqXRCgdWryaZwtC9NLAqGb5cD4hBnbxfjnZe4TWFYZbxCvl1Dt0_DtaCz7WGAAH2nD2I5pvhC1JmtYMkZjuEopH3aPNiNhAyZW6ks4ZNR6ytMUZdlbigguXmF_NgGsQq7eJe9RfOsXhkkYEcgZ35WcUlHADZ9rssHh_JYFJ30gClB3q_JDTIsZDHSBt7ebrgdoLLUEfwYjYxIU210r1Mm8KNnwNUW0vevShcqI2pZaouWqbfWq5vl70kyKudaJJ5IITNJnYqbhl892f77w0K_AwThaCtmw2y6_qZ49RUv8h-r1OXSfhBOKyy-kfqPqI98ZrDzWK4yxPTRGZcjSHvL6mxsBUKzBh_IgHu_ScL3cAJxo2NbnR-F-_0lwFMNxxgNP9yYu3mhKaWUEsH28TdeERLYAL4hOVZJBuUEIG1SJiCJc2U44tZ12Zf8=w1108-h682-no" alt="Cover image" />
+<img src="https://www.dropbox.com/s/7hzktshe9ngvnmq/DSCN1033.JPG?dl=0" alt="Skeletal remains of two individuals recovered from a burn level of the West Gate, Tell Um el-Marra." />
 </CENTER>
 
 All text and code for statistical analyses presented in this report are hosted at [GitHub](https://www.github.com/bateyt/elmarra-bioarch). All data and images are located in Dropbox. 
