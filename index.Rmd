@@ -16,7 +16,7 @@ description: "This is a minimal example of using the bookdown package to write a
 # Preface {-}
 
 <CENTER>
-<img src="https://www.dropbox.com/s/7hzktshe9ngvnmq/DSCN1033.JPG?dl=0" alt="Skeletal remains of two individuals recovered from a burn level of the West Gate, Tell Um el-Marra." />
+<img src="https://previews.dropbox.com/p/thumb/AAS4R1F2gDTGtc4XZhFEMrbJ4drWSt5kBzJuhbVyOrAuNUu5ZIn9HbP286u1MZR7gpdjQQvdUr9aK0MVJ58b0fqX0y2IdQHJwkbq1jTZm79LF5H-n_jlXsvqXKvoHisaP9KWDq7o7nVB6TMUUI6he-1uHSmbaXlwFO2frC8o3u1nw6JzpzXA3bFB-uSrPhCPD55zgTenuczEtB2kDA3uv7Ox2wCW1awJAezCdKtMS9_SyA/p.jpeg?size=1280x960&size_mode=3" alt="Skeletal remains of two individuals recovered from a burn level of the West Gate, Tell Um el-Marra." />
 </CENTER>
 
 All text and code for statistical analyses presented in this report are hosted at [GitHub](https://www.github.com/bateyt/elmarra-bioarch). All data and images are located in Dropbox. 
